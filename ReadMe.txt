@@ -1,21 +1,16 @@
-Como EDA es de 3 creditos y Marc ya no da C++, me tome las molestias de aprenderle en mis vacaciones como practica para el final de febrero 2025.
+¿Por qué estudiar C++ si no toman código de esto?
+Para poner en practica todos las estructuras de datos de la librería STL y poder aplicarles algoritmos. Temas que abarca cada proyecto:
 
-Por que estudiar C++ si en teoria no toman codigo de esto?
-Facil, si aprendes a programar en C++ vas a poder poner en practica todos las estructuras de datos (contenedores) de la libreria STL, para luego aplicarles algoritmos.
-Basicamente, sirve como para bajar a tierra los conceptos de las clases y poder verlo bien, ya que si bien los TP's estan piolas, no ensenian (no tengo enie) ningun carajo.
+Proyecto_1: cout y cin (análogos a printf y getchar), namespace std y referencias a funciones (punteros autocreados)
 
-Por ultimo, coloco un indice de que temas abarcan cada proyecto:
+Proyecto_2: strings, sobrecarga y encapsulamiento de namespace
 
-Proyecto_1: Se da el analogo de printf y getchar, siendo estos: cout y cin. Aparte, se ve que es namespace std por arriba y se muestra las referencias para funciones (punteros autocreados)
+Proyecto_3: objeto (análogo a struct), métodos (funciones propias del objeto, scope y el método constructor para inicializarlo.
 
-Proyecto_2: Se da el tema de strings, sobrecarga y se explica de forma detallada el tema de encapsulamiento de namespace
+Proyecto_4: objetos dinámicos, arreglos de objetos dinámicos, etc.
 
-Proyecto_3: Nuestro primer objeto, el analogo a los structs de C pero mas completo. Se ven lo que son metodos(funciones dentro del objeto, propias), el tema del scope dentro los campos/datos/variables del objeto, asi como el metodo constructor que sirve para inicializarlo.
+Proyecto_5: contenedores de STL (primeras estructuras de datos e iteradores)
 
-Proyecto_4: Objetos dinamicos, arreglos de objetos dinamicos, etc.
+Proyecto_6: listas enlazas y arboles binarios de búsqueda
 
-Proyecto_5: Contenedores de STL, se empieza a ver estructuras de datos y iteradores.
-
-Proyecto_6: Introduccion a las listas enlazas y los arboles binarios de busqueda. (arboles AVL no se ven, ya que son muy complejos de programar)
-
-Proyecto_7: Se ven grafos pesados, se utilizan Dijkstra y se imprimen matriz de adyacencia y lista de adyacencia.
+Proyecto_7: grafos pesados, algoritmo de Dijkstra y matriz y lista de adyacencia
